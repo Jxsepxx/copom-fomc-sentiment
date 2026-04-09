@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers
+scipy
+statsmodels
+nltk
+pdfplumber
+PyPDF2
+selenium
+chromedriver-autoinstaller
+requests
+beautifulsoup4
+openpyxl

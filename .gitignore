@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Dados e outputs (não versionar)
+*.xlsx
+*.xls
+*.xls
+*.pdf
+*.zip
+outputs/
+*.png
+
+# Atas (arquivos grandes de texto — baixar via scripts)
+atas_copom/pdf_copom/
+atas_copom/txt_copom/
+atas_fomc/atas_pdf/
+atas_fomc/atas_txt/
+
+# Arquivos de backup / cópias
+*- Copia*
+*- Copia.*
+OLD/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+Novo Documento de Texto.py
